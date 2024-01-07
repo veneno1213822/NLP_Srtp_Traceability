@@ -1,2 +1,1 @@
-# NLP_Srtp_Traceability
-A text-to-table intelligent traceability model based on extractive multi-fragment reading comprehension model in English version (using the ToTTo dataset).
+Chinese and English versions. Excluding overly large pre trained models, datasets, etc
