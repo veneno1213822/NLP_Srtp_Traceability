@@ -1,0 +1,6 @@
+/cache/
+/lora/
+/data2text_RE/lora/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]

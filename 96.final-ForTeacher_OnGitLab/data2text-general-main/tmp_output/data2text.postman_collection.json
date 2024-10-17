@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "08a4400e-0a97-4e89-821d-4d176aa09bee",
+		"name": "data2text",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30816252"
+	},
+	"item": [
+		{
+			"name": "http://223.3.95.125:5000",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"wholeData\": [\r\n        {\r\n            \"excelData\": [\r\n                {\r\n                    \"segment\": [\r\n                        [\r\n                            {\r\n                                \"columnName\": \"id\",\r\n                                \"columnValue\": \"7\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 0]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"时间\",\r\n                                \"columnValue\": \"11月20日\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 1]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"人物\",\r\n                                \"columnValue\": \"德国KMW公司\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 2]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"国家\",\r\n                                \"columnValue\": \"德国\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 3]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"装备名称\",\r\n                                \"columnValue\": \"豹2主战坦克\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 4]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"装备类型\",\r\n                                \"columnValue\": \"主战坦克\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 5]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"装备数量\",\r\n                                \"columnValue\": \"1000.0\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 6]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"组织机构\",\r\n                                \"columnValue\": \"德国KMW公司\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 7]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"地点\",\r\n                                \"columnValue\": \"未提及\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 8]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"任务\",\r\n                                \"columnValue\": \"纪念这款传奇主战坦克诞生40周年\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 9]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"行动\",\r\n                                \"columnValue\": \"举办了一场别开生面的生日会\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 10]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"事件\",\r\n                                \"columnValue\": \"豹2系列坦克诞生40周年\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 11]\"\r\n                            },\r\n                            {\r\n                                \"columnName\": \"备注\",\r\n                                \"columnValue\": \"40年来，豹2系列坦克一直是西方三代坦克的标杆，并深刻的影响了日本90式坦克、印度阿琼坦克、土耳其阿尔泰坦克等其他国家三代主战坦克的发展\",\r\n                                \"position\": \"演示数据1&Sheet1&[5, 12]\"\r\n                            }\r\n                        ]\r\n                    ],\r\n                    \"selected\": false,\r\n                    \"sheetName\": \"演示数据1.xlsx&Sheet1\",\r\n                    \"text\": \"7月14日,中国航天科技集团公司十一院研制的彩虹5察打一体无人机在河北某机场成功首飞。彩虹5是我国自主研发的新一代察打一体无人机,是我国自主研发的新一代察打一体无人机。\"\r\n                }\r\n            ],\r\n            \"excelName\": \"演示数据1.xlsx\",\r\n            \"headerName\": {\r\n                \"演示数据1.xlsx&Sheet1\": [\r\n                    \"id\",\r\n                    \"时间\",\r\n                    \"人物\",\r\n                    \"国家\",\r\n                    \"装备名称\",\r\n                    \"装备类型\",\r\n                    \"装备数量\",\r\n                    \"组织机构\",\r\n                    \"地点\",\r\n                    \"任务\",\r\n                    \"行动\",\r\n                    \"事件\",\r\n                    \"备注\"\r\n                ]\r\n            }\r\n        }\r\n    ]\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://223.3.95.125:5000",
+					"protocol": "http",
+					"host": [
+						"223",
+						"3",
+						"95",
+						"125"
+					],
+					"port": "5000"
+				}
+			},
+			"response": []
+		}
+	]
+}

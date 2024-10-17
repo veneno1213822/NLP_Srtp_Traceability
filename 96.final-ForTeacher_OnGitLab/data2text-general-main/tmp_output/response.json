@@ -1,0 +1,449 @@
+{
+  "wholeData": [
+    {
+      "excelData": [
+        {
+          "segment": [
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A21"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B21"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&C21"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "中国",
+                "position": "演示数据1-5bf2d&Sheet1&D21"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E21"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F21"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G21"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&H21"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I21"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J21"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K21"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L21"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M21"
+              }
+            ],
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A22"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B22"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&C22"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "俄罗斯",
+                "position": "演示数据1-5bf2d&Sheet1&D22"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E22"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F22"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G22"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&H22"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I22"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J22"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K22"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L22"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M22"
+              }
+            ]
+          ],
+          "selected": false,
+          "sheetName": "演示数据1-5bf2d.xlsx&Sheet1",
+          "text": "19,10月中旬,中国武警部队,中国,,,,中国武警部队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,19,10月中旬,俄罗斯国民卫队,俄罗斯,,,,俄罗斯国民卫队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,"
+        },
+        {
+          "segment": [
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A21"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B21"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&C21"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "中国",
+                "position": "演示数据1-5bf2d&Sheet1&D21"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E21"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F21"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G21"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&H21"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I21"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J21"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K21"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L21"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M21"
+              }
+            ],
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A22"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B22"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&C22"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "俄罗斯",
+                "position": "演示数据1-5bf2d&Sheet1&D22"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E22"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F22"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G22"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&H22"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I22"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J22"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K22"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L22"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M22"
+              }
+            ]
+          ],
+          "selected": false,
+          "sheetName": "演示数据1-5bf2d.xlsx&Sheet1",
+          "text": "19,10月中旬,中国武警部队,中国,,,,中国武警部队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,19,10月中旬,俄罗斯国民卫队,俄罗斯,,,,俄罗斯国民卫队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,"
+        },
+        {
+          "segment": [
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A21"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B21"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&C21"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "中国",
+                "position": "演示数据1-5bf2d&Sheet1&D21"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E21"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F21"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G21"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "中国武警部队",
+                "position": "演示数据1-5bf2d&Sheet1&H21"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I21"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J21"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K21"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L21"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M21"
+              }
+            ],
+            [
+              {
+                "columnName": "id",
+                "columnValue": "19",
+                "position": "演示数据1-5bf2d&Sheet1&A22"
+              },
+              {
+                "columnName": "时间",
+                "columnValue": "10月中旬",
+                "position": "演示数据1-5bf2d&Sheet1&B22"
+              },
+              {
+                "columnName": "人物",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&C22"
+              },
+              {
+                "columnName": "国家",
+                "columnValue": "俄罗斯",
+                "position": "演示数据1-5bf2d&Sheet1&D22"
+              },
+              {
+                "columnName": "装备名称",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&E22"
+              },
+              {
+                "columnName": "装备类型",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&F22"
+              },
+              {
+                "columnName": "装备数量",
+                "columnValue": "",
+                "position": "演示数据1-5bf2d&Sheet1&G22"
+              },
+              {
+                "columnName": "组织机构",
+                "columnValue": "俄罗斯国民卫队",
+                "position": "演示数据1-5bf2d&Sheet1&H22"
+              },
+              {
+                "columnName": "地点",
+                "columnValue": "新西伯利亚市近郊的戈尔内训练中心及周边地域",
+                "position": "演示数据1-5bf2d&Sheet1&I22"
+              },
+              {
+                "columnName": "任务",
+                "columnValue": "联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&J22"
+              },
+              {
+                "columnName": "行动",
+                "columnValue": "2019联合反恐演练",
+                "position": "演示数据1-5bf2d&Sheet1&K22"
+              },
+              {
+                "columnName": "事件",
+                "columnValue": "联合反恐基础训练、战术协同训练、综合对抗演练",
+                "position": "演示数据1-5bf2d&Sheet1&L22"
+              },
+              {
+                "columnName": "备注",
+                "columnValue": "此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景",
+                "position": "演示数据1-5bf2d&Sheet1&M22"
+              }
+            ]
+          ],
+          "selected": false,
+          "sheetName": "演示数据1-5bf2d.xlsx&Sheet1",
+          "text": "19,10月中旬,中国武警部队,中国,,,,中国武警部队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,19,10月中旬,俄罗斯国民卫队,俄罗斯,,,,俄罗斯国民卫队,新西伯利亚市近郊的戈尔内训练中心及周边地域,联合反恐演练,2019联合反恐演练,联合反恐基础训练、战术协同训练、综合对抗演练,此次联演为期11天，以联合打击恐怖主义为主题，按照实战化、对抗化、基地化的思路，区分联合反恐基础训练、战术协同训练、综合对抗演练3个阶段，展开4大类近30个课目的训练和交流，所有课目均对标实战要求，全程带有战术背景,"
+        }
+      ],
+      "excelName": "演示数据1-5bf2d.xlsx",
+      "headerName": {
+        "演示数据1-5bf2d.xlsx&Sheet1": [
+          "id",
+          "时间",
+          "人物",
+          "国家",
+          "装备名称",
+          "装备类型",
+          "装备数量",
+          "组织机构",
+          "地点",
+          "任务",
+          "行动",
+          "事件",
+          "备注"
+        ]
+      }
+    }
+  ]
+}

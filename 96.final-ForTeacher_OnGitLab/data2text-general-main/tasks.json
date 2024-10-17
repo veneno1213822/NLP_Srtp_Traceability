@@ -1,0 +1,191 @@
+{
+    "e1f83ea4-6bc2-11ef-9a2e-0242ac1d0002": {
+        "task_id": "e1f83ea4-6bc2-11ef-9a2e-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:09:41.",
+        "start_time": "2024-09-06,04:10:23"
+    },
+    "e444513e-6bc2-11ef-b744-0242ac1d0002": {
+        "task_id": "e444513e-6bc2-11ef-b744-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:09:41.",
+        "start_time": "2024-09-06,04:10:26"
+    },
+    "540c98dc-6bc3-11ef-b14c-0242ac1d0002": {
+        "task_id": "540c98dc-6bc3-11ef-b14c-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:09:41.",
+        "start_time": "2024-09-06,04:13:34"
+    },
+    "60fa6132-6bc3-11ef-a38d-0242ac1d0002": {
+        "task_id": "60fa6132-6bc3-11ef-a38d-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:09:41.",
+        "start_time": "2024-09-06,04:13:56"
+    },
+    "daf6d76c-6bc4-11ef-87a3-0242ac1d0002": {
+        "task_id": "daf6d76c-6bc4-11ef-87a3-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:24:00.",
+        "start_time": "2024-09-06,04:24:30"
+    },
+    "40381f50-6bc5-11ef-be5c-0242ac1d0002": {
+        "task_id": "40381f50-6bc5-11ef-be5c-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:27:11.",
+        "start_time": "2024-09-06,04:27:20"
+    },
+    "8eefed70-6c25-11ef-911d-0242ac1d0002": {
+        "task_id": "8eefed70-6c25-11ef-911d-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:27:11.",
+        "start_time": "2024-09-06,15:56:43"
+    },
+    "4fcc3b92-6c27-11ef-9f95-0242ac1d0002": {
+        "task_id": "4fcc3b92-6c27-11ef-9f95-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 04:27:11.",
+        "start_time": "2024-09-06,16:09:17"
+    },
+    "7f163e14-6c29-11ef-8c40-0242ac1d0002": {
+        "task_id": "7f163e14-6c29-11ef-8c40-0242ac1d0002",
+        "status": "Error",
+        "msg": "You can only train once within 24 hours. Please train again after 2024-09-07 16:13:31.",
+        "start_time": "2024-09-06,16:24:55"
+    },
+    "cc00ade4-6c2a-11ef-9417-0242ac1d0002": {
+        "task_id": "cc00ade4-6c2a-11ef-9417-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:34:13",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/cc00ade4-6c2a-11ef-9417-0242ac1d0002+2024-09-06,16:34:13/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "9bb86554-6c2b-11ef-9cf9-0242ac1d0002": {
+        "task_id": "9bb86554-6c2b-11ef-9cf9-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:40:02",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/9bb86554-6c2b-11ef-9cf9-0242ac1d0002+2024-09-06,16:40:02/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "1e6c6ecc-6c2d-11ef-bd3a-0242ac1d0002": {
+        "task_id": "1e6c6ecc-6c2d-11ef-bd3a-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:50:51",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/1e6c6ecc-6c2d-11ef-bd3a-0242ac1d0002+2024-09-06,16:50:51/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "90a738a0-6c2d-11ef-a547-0242ac1d0002": {
+        "task_id": "90a738a0-6c2d-11ef-a547-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:54:02",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/90a738a0-6c2d-11ef-a547-0242ac1d0002+2024-09-06,16:54:02/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "b885139c-6c2d-11ef-8651-0242ac1d0002": {
+        "task_id": "b885139c-6c2d-11ef-8651-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:55:09",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/b885139c-6c2d-11ef-8651-0242ac1d0002+2024-09-06,16:55:09/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "31f49fc2-6c2e-11ef-8b3d-0242ac1d0002": {
+        "task_id": "31f49fc2-6c2e-11ef-8b3d-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,16:58:33",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/31f49fc2-6c2e-11ef-8b3d-0242ac1d0002+2024-09-06,16:58:33/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "b52ecf98-6c2e-11ef-b83d-0242ac1d0002": {
+        "task_id": "b52ecf98-6c2e-11ef-b83d-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,17:02:13",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/b52ecf98-6c2e-11ef-b83d-0242ac1d0002+2024-09-06,17:02:13/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "ea4a0fb2-6c2e-11ef-8d1e-0242ac1d0002": {
+        "task_id": "ea4a0fb2-6c2e-11ef-8d1e-0242ac1d0002",
+        "status": "Preparing",
+        "msg": "Training task started.",
+        "start_time": "2024-09-06,17:03:42",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/ea4a0fb2-6c2e-11ef-8d1e-0242ac1d0002+2024-09-06,17:03:42/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "82e41e02-6c2f-11ef-92b7-0242ac1d0002": {
+        "task_id": "82e41e02-6c2f-11ef-92b7-0242ac1d0002",
+        "status": "Error",
+        "msg": "Training task failed: Cannot re-initialize CUDA in forked subprocess. To use CUDA with multiprocessing, you must use the 'spawn' start method",
+        "start_time": "2024-09-06,17:07:58",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/82e41e02-6c2f-11ef-92b7-0242ac1d0002+2024-09-06,17:07:58/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "eda3aa0c-6c3c-11ef-bd01-0242ac1d0002": {
+        "task_id": "eda3aa0c-6c3c-11ef-bd01-0242ac1d0002",
+        "status": "Error",
+        "msg": "Training task failed: Cannot copy out of meta tensor; no data!",
+        "start_time": "2024-09-06,18:44:01",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/eda3aa0c-6c3c-11ef-bd01-0242ac1d0002+2024-09-06,18:44:01/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "004e4edc-6c3d-11ef-bcf8-0242ac1d0002": {
+        "task_id": "004e4edc-6c3d-11ef-bcf8-0242ac1d0002",
+        "status": "Error",
+        "msg": "Training task failed: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 23.68 GiB total capacity; 23.21 GiB already allocated; 6.94 MiB free; 23.36 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF",
+        "start_time": "2024-09-06,18:44:32",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/004e4edc-6c3d-11ef-bcf8-0242ac1d0002+2024-09-06,18:44:32/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "4e370c24-6c3d-11ef-99f4-0242ac1d0002": {
+        "task_id": "4e370c24-6c3d-11ef-99f4-0242ac1d0002",
+        "status": "Training",
+        "msg": "The model is training.",
+        "start_time": "2024-09-06,18:46:43",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/4e370c24-6c3d-11ef-99f4-0242ac1d0002+2024-09-06,18:46:43/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "e858af1a-6c3d-11ef-94cb-0242ac1d0002": {
+        "task_id": "e858af1a-6c3d-11ef-94cb-0242ac1d0002",
+        "status": "Error",
+        "msg": "Training task failed: CUDA out of memory. Tried to allocate 982.00 MiB (GPU 0; 23.68 GiB total capacity; 22.82 GiB already allocated; 482.94 MiB free; 22.89 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF",
+        "start_time": "2024-09-06,18:51:01",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/e858af1a-6c3d-11ef-94cb-0242ac1d0002+2024-09-06,18:51:01/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "7f886670-6c41-11ef-a388-0242ac1d0002": {
+        "task_id": "7f886670-6c41-11ef-a388-0242ac1d0002",
+        "status": "Training",
+        "msg": "The model is training.",
+        "start_time": "2024-09-06,19:16:44",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/7f886670-6c41-11ef-a388-0242ac1d0002+2024-09-06,19:16:44/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    },
+    "c235e636-6c42-11ef-9ffc-0242ac1d0002": {
+        "task_id": "c235e636-6c42-11ef-9ffc-0242ac1d0002",
+        "status": "Error",
+        "msg": "Training task failed: CUDA out of memory. Tried to allocate 982.00 MiB (GPU 0; 23.68 GiB total capacity; 22.81 GiB already allocated; 500.94 MiB free; 22.87 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF",
+        "start_time": "2024-09-06,19:25:45",
+        "base_model": "cache/models--baichuan-inc--Baichuan2-7B-Chat/snapshots/ea66ced17780ca3db39bc9f8aa601d8463db3da5",
+        "data_path": "data2text/train_data/c235e636-6c42-11ef-9ffc-0242ac1d0002+2024-09-06,19:25:45/train_data_internal.json",
+        "previous_version": "lora/baichuan7B-data2text-continue"
+    }
+}

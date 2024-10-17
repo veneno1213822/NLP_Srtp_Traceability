@@ -1,0 +1,13 @@
+# 忽略所有大于50MB的文件
+*.bin
+post_process/.ipynb_checkpoints/
+lora/
+cache/
+.ipynb_checkpoints/
+__pycache__/
+vllm-0.5.4-cp310-cp310-manylinux1_x86_64.whl
+*.py[cod]
+.idea/
+data2text/
+Drafts/
+test_time_data/
